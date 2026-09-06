@@ -1,0 +1,25 @@
+{
+  "name": "usb-uncensored-llm",
+  "version": "1.0.0",
+  "description": "Fully air-gapped, zero-dependency, plug-and-play Local AI environment",
+  "private": true,
+  "scripts": {
+    "lint": "echo 'No linting configured for this HTML project'",
+    "test": "echo 'No tests configured for this project'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biuropaczkow-art/USB-Uncensored-LLM.git"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "portable",
+    "offline"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
